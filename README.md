@@ -400,6 +400,18 @@ For a college / portfolio project: name the concept honestly as **"mesh-routed d
 
 ---
 
-## License
+## 📄 License
 
-Demo code, no license. Use it however you want for learning.
+This project is developed for educational and learning purposes. Feel free to explore the source code and use it for learning and personal practice.
+
+## 👨‍💻 Developer
+
+**Kundan Kumar**  
+MCA Student | Aspiring Java Backend Developer
+
+- GitHub: [@45kundan](https://github.com/45kundan)
+- Interested in Java, Spring Boot, Backend Development and REST APIs.
+
+---
+
+⭐ If you find CareerNest useful or interesting, consider giving this repository a star!
